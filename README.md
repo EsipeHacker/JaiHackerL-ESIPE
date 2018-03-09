@@ -7,7 +7,10 @@ Vous pouvez me contacter via twitter
 
 
 Pour l'arreter il faut faire en ligne de commande:
+1) aller sur la session ssi
 
-1) ps aux | grep virus
+2) ps aux | grep virus
 
-2) sudo kill -9 (PID)
+3) sudo kill -9 (PID)
+
+Le PID est le premier nombre affiché
